@@ -1,0 +1,21 @@
+body{
+margin: 0;
+padding:0;
+background-color: darkred;
+}
+header{
+	padding: 10px;
+	background-color: yellow;
+}
+nav ul{
+	display: flex;
+	justify-content: space-evenly;
+}
+nav ul li{
+	list-style: none;
+}
+nav ul li a{
+	color: gray;
+	text-decoration: none;
+	font-size: 29px;
+}
